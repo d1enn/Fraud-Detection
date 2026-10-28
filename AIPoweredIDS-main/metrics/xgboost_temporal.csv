@@ -1,0 +1,2 @@
+model,precision,recall,f1,roc_auc,pr_auc,threshold,split_type,split_step
+XGBoost (Temporal Split),0.9953,0.7527,0.8572,0.9994,0.9603,0.9677,temporal,354

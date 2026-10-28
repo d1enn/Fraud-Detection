@@ -1,0 +1,2 @@
+model,precision,recall,f1,roc_auc,pr_auc,threshold,note
+Isolation Forest,0.1188,0.1376,0.1275,0.8997,0.0593,contamination,trained on legitimate transactions only
